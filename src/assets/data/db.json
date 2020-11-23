@@ -1,0 +1,29 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "model": "BMW X7",
+            "color": "Preto",
+            "price": 450.00
+        },
+        {
+            "id": 2,
+            "model": "Mercedes Benz",
+            "color": "Prata",
+            "price": 500.00
+        },
+        {
+            "id": 3,
+            "model": "Land Rover Range Rover Velar",
+            "color": "Branco",
+            "price": 550.00
+        },
+        {
+            "id": 4,
+            "model": "Audi A4",
+            "color": "vermelho",
+            "price": 150.00
+        }
+
+    ]
+}
